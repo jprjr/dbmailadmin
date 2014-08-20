@@ -8,7 +8,7 @@ managing users in the jprjr/dbmail image.
 You need to either use `--link` to connect to a MySQL server,
 or provide a `MYSQL_HOST` environment variable.
 
-You'll also need the `DB_SQL_USER` and `DB_SQL_PASS`
+You'll also need the `DB_USER` and `DB_PASS`
 variables you used when setting up the dovecot image.
 
 Alternatively, these variables can ve placed in a file
